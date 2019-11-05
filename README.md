@@ -10,8 +10,8 @@ much more influences price negotiations than the number of bedrooms or a white-p
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this 
 competition challenges you to predict the final price of each home.
 
-To solve this problem, I used compared ridge and lasso regression model to predict the price
-And then applied Xgboost to enhance the accuracy.
+To solve this problem, I compared the rmse ridge and lasso regression model to predict the price
+and then applied Xgboost to enhance the accuracy.
 
 For more details, please refer to the file named "Lasso_Xgboost_HousePricePrediction.ipynb"
 
