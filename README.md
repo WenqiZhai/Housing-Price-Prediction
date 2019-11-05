@@ -1,5 +1,7 @@
 # Housing-Price-Prediction
 Hi, this is my project for a Kaggle case compeition!
+
+
 To begin with, here is the case description:
 Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement 
 ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that
