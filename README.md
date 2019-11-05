@@ -10,6 +10,7 @@ competition challenges you to predict the final price of each home.
 
 To solve this problem, I used compared ridge and lasso regression model to predict the price
 And then applied Xgboost to enhance the accuracy.
+
 For more details, please refer to the file named "Lasso_Xgboost_HousePricePrediction.ipynb"
 
 Thank you and enjoy~
